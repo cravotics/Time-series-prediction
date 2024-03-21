@@ -22,8 +22,8 @@ The project explores the use of Long Short-Term Memory (LSTM) and Recurrent Neur
 Clone the repository to your local machine:
 
 
-git clone https://github.com/<your-username>/<your-repository>.git
-Install the required Python packages:
+[git clone https://github.com/<your-username>/<your-repository>.git
+](https://github.com/cravotics/Time-series-prediction.git)Install the required Python packages:
 
 
 pip install torch torchvision numpy pandas matplotlib
